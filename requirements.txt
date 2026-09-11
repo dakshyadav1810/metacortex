@@ -1,0 +1,16 @@
+BeautifulSoup4
+requests
+aiohttp
+sentence-transformers
+torch
+faiss-cpu
+numpy
+fastapi
+uvicorn
+langchain
+langchain-text-splitters
+pydantic
+transformers
+accelerate
+bitsandbytes
+python-dotenv
